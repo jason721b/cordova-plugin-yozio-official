@@ -1,0 +1,27 @@
+{
+	"name": "cordova-plugin-yozio-official",
+	"version": "1.0.0",
+	"description": "This is a Cordova plugin which is supported officially by Yozio. Yozio is a mobile growth platform, you can find more here: https://yozio.com.",
+	"cordova": {
+		"id": "cordova-plugin-yozio-official",
+		"platforms": [
+			"android",
+			"ios"
+		]
+	},
+	"respository": {
+		"type": "git",
+		"url": ""
+	},
+	"keywords": [
+		"yozio",
+		"tracking",
+		"deep link",
+		"deferred deep linking",
+		"universal link",
+		"ecosystem:cordova",
+		"cordova-android",
+		"cordova-ios"
+	],
+	"license": "commericial"
+}
