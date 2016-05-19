@@ -19,7 +19,7 @@ Some of the interfaces of this plugin are different from Justin's.
 
 ###Example
 
-    cordova plugin add cordova-plugin-yozio --variable YOZIO_APP_KEY=your_app_key --variable YOZIO_SECRET_KEY=your_secret_key --variable URI_SCHEME=your_custom_scheme --variable YOZIO_DOMAIN=r.company.com
+    cordova plugin add cordova-plugin-yozio-official --variable YOZIO_APP_KEY=your_app_key --variable YOZIO_SECRET_KEY=your_secret_key --variable URI_SCHEME=your_custom_scheme --variable YOZIO_DOMAIN=r.company.com
    
 ## Usage
 
